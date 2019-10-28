@@ -1,0 +1,8 @@
+{
+  "/api": {
+          "target": "http://kytbackend-8050.nodechef.com",
+          "secure": false,
+          "logLevel": "debug",
+          "changeOrigin":true
+        }
+}
